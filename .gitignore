@@ -67,3 +67,23 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Visual Studio
+.vs/
+
+# Configuration folders
+Debug/
+Release/
+x64/
+x86/
+
+# User files
+*.user
+*.suo
+
+# Databases
+*.VC.db
+*.opendb
+
+# Intellisense
+ipch/
